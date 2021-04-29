@@ -4,9 +4,8 @@
 웨이트 운동을 시작하고 싶지만 기구의 사용법을 모르는 초보자들을 위한 안드로이드 앱이다.
 모바일 기기의 카메라 화면으로 원하는 운동기구를 사용하는 애니메이션 동작을 확인할 수 있다.  
 운동기구 사용 애니메이션은 AR컨텐츠로 제공된다.  
-애플리케이션은 Unity로 구현되며 AR엔진은 Vuforia를 이용한다.  
-[Unity](https://unity.com/kr)  
-[Vuforia](https://developer.vuforia.com/)  
+애플리케이션은 [Unity](https://unity.com/kr)로 구현하였으며, AR엔진은 [Vuforia](https://developer.vuforia.com/)를 이용한다.  
+
 ## 기능 설명
 
 
