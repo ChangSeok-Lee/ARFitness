@@ -12,7 +12,7 @@
 2. 마커등록 (4월 1주)
 3. 모션캡처 ()
   ![mocap](./img/motioncap.png)
-4. 애니메이션 데이터 보정
+4. 애니메이션 데이터 보정  
   ![clib](./img/calibration.gif)
 5. Unity를 이용하여 app제작
 6. 모델 텍스쳐 수정
