@@ -14,17 +14,17 @@
   - License key를 가져와 unity 프로젝트에 등록
   - 마커로 사용할 이미지 다운로드
   - Target Manager에 이미지 등록
-  - Database를 Unity에 import  
+  - Database를 Unity에 import  </br></br>
 3. 모션캡처 (4월 3주 ~ 5월 1주)
   - Kinect v2 depth카메라를 이용하여 촬영
   - ipi MocapStudio와 ipi Recoder사용(https://www.ipisoft.com/download/)
-  ![mocap](./img/motioncap.png)  
+  ![mocap](./img/motioncap.png)  </br></br>
 4. 애니메이션 데이터 보정 (4월 5주 ~ 5월 2주)  
   ![clib](./img/calibration.gif)  
 5. Unity를 이용하여 app제작 (4월 1주 ~ 5월 4주)  
-  <img src = "./img/play.jpg" width="30%"><img src = "./img/play2.jpg" width="30%">    
+  <img src = "./img/play.jpg" width="30%"><img src = "./img/play2.jpg" width="30%">    </br></br>
 6. 모델 텍스쳐 수정 (5월 2주 ~ 5월 3주)
-  - 모델에 포함되어있는 텍스처 파일을 ProCreater를 이용하여 자극부위가 표시되도록 수정  
+  - 모델에 포함되어있는 텍스처 파일을 ProCreater를 이용하여 자극부위가 표시되도록 수정  </br></br>
 7. 테스트 및 보정 (5월 4주 ~ 6월 1주)
 ## 기능 설명
 - 운동기구의 마커를 인식한 후 표시되는 운동기구 이름을 터치하면 운동 종류를 선택할 수 있다.
