@@ -10,7 +10,7 @@
 ## 개발 과정
 1. UI제작
 2. 모션캡처
-![mocap](./img/screenshot.png)
+  ![mocap](./img/motioncap.png)
 3. 마커등록
 4. 애니메이션 데이터 보정
 5. Unity를 이용하여 app제작
