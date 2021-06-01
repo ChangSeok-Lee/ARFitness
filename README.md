@@ -27,7 +27,10 @@ apk파일을 휴대폰에 저장한 후 파일 관리자를 이용하여 설치(
 - 앱 내 사용방법 화면 확인
 
 ## 참고
-
+- 이 repository는 lfs를 사용합니다.
+- repo를 clone할 때
+  - git clone [url]
+  - git lfs pull
 - 100M이상 파일 올릴 때  
   - `git lfs install`  
   - `git lfs track "파일명.확장자"`  
