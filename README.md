@@ -15,7 +15,7 @@
 4. 애니메이션 데이터 보정 (4월 5주 ~ 5월 2주)  
   ![clib](./img/calibration.gif)
 5. Unity를 이용하여 app제작 (4월 1주 ~ 5월 4주)  
-  <img src = "./img/play.jpg" width="50%"><img src = "./img/play2.jpg" width="50%">
+  <img src = "./img/play.jpg" width="30%"><img src = "./img/play2.jpg" width="30%">  
 6. 모델 텍스쳐 수정 (5월 2주 ~ 5월 3주)
 7. 테스트 및 보정 (5월 4주 ~ 6월 1주)
 ## 기능 설명
