@@ -6,15 +6,16 @@
 운동기구 사용 애니메이션은 AR컨텐츠로 제공된다.  
 애플리케이션은 [Unity](https://unity.com/kr)로 구현하였으며, AR엔진은 [Vuforia](https://developer.vuforia.com/)를 이용한다.  
 ## 아키텍처
-
+![arch](./img/arch.png)
 ## 개발 과정
 1. UI제작 (4월 1주 ~ 4월 2주)
 2. 마커등록 (4월 1주)
-3. 모션캡처 ()
+3. 모션캡처 (4월 3주 ~ 5월 1주)
   ![mocap](./img/motioncap.png)
-4. 애니메이션 데이터 보정  
+4. 애니메이션 데이터 보정 (4월 5주 ~ 5월 2주)  
   ![clib](./img/calibration.gif)
 5. Unity를 이용하여 app제작
+  ![clib](./img/calibration.gif)
 6. 모델 텍스쳐 수정
 7. 테스트 및 보정
 ## 기능 설명
