@@ -8,7 +8,7 @@
 ## 아키텍처
 ![arch](./img/arch.png)
 ## 개발 과정
-1. UI제작 (4월 1주 ~ 4월 2주)  </br>
+1. UI제작 (4월 1주 ~ 4월 2주)  </br></br>
 2. 마커등록 (4월 1주)
   - vuforia홈페이지 -> Develop 에서 데이터베이스 생성
   - License key를 가져와 unity 프로젝트에 등록
